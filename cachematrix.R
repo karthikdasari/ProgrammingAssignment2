@@ -1,5 +1,6 @@
-## Put comments here that give an overall description of what your
-## functions do
+## makeCacheMatrix gives a list of four functions
+## cacheSolve computes the inverse of a matrix or returns the   
+## cached value if the calculation is alredy done 
 
 ## Write a short comment describing this function
 
